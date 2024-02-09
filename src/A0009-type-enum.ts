@@ -11,3 +11,5 @@ enum Cores {
 // se buscar pela chave, retorna valor, se buscar pelo valor retorna a chave
 console.log(Cores.AMARELO); // 200
 console.log(Cores[10]); // Vermelho
+
+export default 1;

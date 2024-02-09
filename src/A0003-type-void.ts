@@ -7,3 +7,5 @@ function semRetorno(...args: string[]): void {
 }
 
 semRetorno("teste", "affs", "legal");
+
+export default 1;

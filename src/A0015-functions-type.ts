@@ -18,3 +18,5 @@ function mapStrings(
 const arrayDeLetras = ["a", "b", "c"];
 
 console.log(mapStrings(arrayDeLetras, (item) => item.toUpperCase()));
+
+export default 1;

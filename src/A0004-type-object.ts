@@ -18,3 +18,5 @@ const objetoA: {
 
 objetoA.chaveC = "Valor C com index signature";
 console.log(objetoA);
+
+export default 1;

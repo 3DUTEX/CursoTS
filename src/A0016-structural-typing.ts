@@ -47,3 +47,5 @@ const sentUser = {
 // mas atende aos requisitos do tipo User
 
 console.log(verifyUser(bdUser, sentUser));
+
+export default 1;

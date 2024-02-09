@@ -9,3 +9,5 @@ Deve ser usado somente em último caso
 */
 
 console.log();
+
+export default 1;

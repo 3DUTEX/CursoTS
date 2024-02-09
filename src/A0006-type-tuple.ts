@@ -9,3 +9,5 @@ dadosCliente[0] = 3; // ainda é possível alterar o valor de um índice
 
 // array com readonly
 const array: ReadonlyArray<string> = ["eduardo"];
+
+export default 1;

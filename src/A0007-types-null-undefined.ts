@@ -36,3 +36,5 @@ if (quadradoDeDois === null) {
   // o TS entende que eu chequei de é nulo e se chegou até aqui é um número
   console.log(quadradoDeDois * 2);
 }
+
+export default 1;

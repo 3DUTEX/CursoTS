@@ -14,3 +14,5 @@ const pessoa2: Pessoa = {
 };
 
 console.log(pessoa2);
+
+export default 1;

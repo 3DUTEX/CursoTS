@@ -7,3 +7,5 @@ function addOrConcat(x: number | string, y: number | string): number | string {
 
 console.log(addOrConcat(10, 20)); // soma
 console.log(addOrConcat("10", 20)); // concatena
+
+export default 1;

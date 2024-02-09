@@ -34,3 +34,5 @@ function soma(x: number, y: number) {
 // Tipando arrow function
 // dentro dos parênteses tipos dos parâmetros, depois da seta, tipo de retorno
 const soma2: (x: number, y: number) => number = (x, y) => x + y;
+
+export default 1;

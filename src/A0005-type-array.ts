@@ -19,3 +19,5 @@ function toUpperCase(...args: string[]): string[] {
 console.log(multiplicaArgs(10, 10));
 console.log(concatenaStrings("a", "b", "c"));
 console.log(toUpperCase("qweqw", "eduardo"));
+
+export default 1;

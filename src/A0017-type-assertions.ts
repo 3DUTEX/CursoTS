@@ -13,3 +13,5 @@ body2.style.background = "red";
 // Informando ao TS que o tipo dessa variável é garantido 100% "HTMLBodyElement"
 const body3 = document.querySelector("body") as HTMLBodyElement;
 body3.style.background = "red";
+
+export default 1;
