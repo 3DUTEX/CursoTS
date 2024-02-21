@@ -41,3 +41,5 @@ export class Motor {
 const carro = new Carro();
 
 carro.ligar();
+
+export default false;

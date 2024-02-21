@@ -25,6 +25,8 @@ export class CarrinhoDeCompras {
   }
 }
 
+export default false;
+
 export class Produto {
   constructor(
     public nome: string,

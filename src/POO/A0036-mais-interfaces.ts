@@ -17,3 +17,5 @@ const pessoa: Pessoa = {
 };
 
 console.log(pessoa);
+
+export default false;
